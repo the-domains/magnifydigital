@@ -1,0 +1,28 @@
+name: Magnifydigital
+favicon: null
+layout_spectrum: 0.7387468824163079
+typography_spectrum: 0.5529245641082525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.305412832647562
+  lightness: 0.5981976152397692
+  saturation: 0.45526447775773704
+  rhythmicContrast: 0.5245636468753219
+purpose: []
